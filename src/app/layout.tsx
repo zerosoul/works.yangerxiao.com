@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Providers } from "./providers";
+import Footer from "../components/footer";
 
 export const metadata: Metadata = {
   title: "Tristan's Works",
@@ -25,6 +26,7 @@ export default function RootLayout({
         className={`antialiased`}
       >
         <Providers>{children}</Providers>
+        <Footer />
       </body>
     </html>
   );

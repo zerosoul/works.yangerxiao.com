@@ -6,6 +6,7 @@ import { Button } from "@nextui-org/button";
 import { FaGithub } from "react-icons/fa";
 import Link from "next/link";
 import { MdLink } from "react-icons/md";
+import Comments from "../components/comments";
 const BgPlaceholder = "placeholder.jpg";
 export default function Home() {
   return (
@@ -110,6 +111,7 @@ export default function Home() {
           );
         })}
       </div>
+      <Comments />
     </main>
   );
 }
