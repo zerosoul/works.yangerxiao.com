@@ -50,6 +50,14 @@
         "cover": "vocechat.cover.jpg"
     },
     {
+        "name": "swzs-org",
+        "title": "Vote For Global Leaders",
+        "link": "https://swzs.org/",
+        "intro": "Vote your favorite leader",
+        "mobile": true,
+        "cover": "rc.bullets.png"
+    },
+    {
         "name": "rc-bullets",
         "title": "React 弹幕",
         "link": "https://zerosoul.github.io/rc-bullets/",
