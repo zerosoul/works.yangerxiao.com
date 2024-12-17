@@ -55,7 +55,7 @@
         "link": "https://swzs.org/",
         "intro": "Vote your favorite leader",
         "mobile": true,
-        "cover": "rc.bullets.png"
+        "cover": "candidate.png"
     },
     {
         "name": "rc-bullets",
