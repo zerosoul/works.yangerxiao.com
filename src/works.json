@@ -1,7 +1,7 @@
 [
     {
         "name": "sinqi.tools",
-        "title": "小神器",
+        "title": "Sinqi Tools",
         "link": "https://sinqi.tools",
         "intro": "小工具集合，包括不限于：有关时间的工具，图案生成器，查询工具，代码截图生成器，等等各种小众但有用的工具...",
         "mobile": true,
@@ -52,7 +52,8 @@
         "intro": "可自部署的轻量聊天系统",
         "mobile": true,
         "github": "https://github.com/Privoce/vocechat-web",
-        "cover": "vocechat.cover.jpg"
+        "cover": "vocechat.cover.jpg",
+        "logo": "https://voce.chat/favicon.ico"
     },
     {
         "name": "minesweeper",
@@ -60,7 +61,8 @@
         "link": "https://ohminesweeper.online",
         "intro": "win98 UI，一款主打怀旧的小游戏，支持 PWA",
         "mobile": true,
-        "cover": "minesweeper.cover.png"
+        "cover": "minesweeper.cover.png",
+        "logo": "https://ohminesweeper.online/favicon.ico"
     },
     {
         "name": "swzs-org",
@@ -68,7 +70,8 @@
         "link": "https://swzs.org/",
         "intro": "Vote your favorite leader",
         "mobile": true,
-        "cover": "candidate.png"
+        "cover": "candidate.png",
+        "logo": "https://swzs.org/favicon.ico"
     },
     {
         "name": "rc-bullets",
@@ -111,7 +114,8 @@
         "link": "http://webrow.se/vera",
         "intro": "一个基于 webRTC 的实时音视频通讯的谷歌浏览器扩展，严格说不是我个人的产品，是 Privoce（https://privoce.com）公司产品，目前主要是我在做产品开发落地",
         "github": "https://github.com/Privoce/Vera",
-        "cover": "8UogVj.png"
+        "cover": "8UogVj.png",
+        "logo": "https://static.nicegoodthings.com/works/vera/popup.vera.logo.png"
     },
     {
         "name": "webrowse",
@@ -119,7 +123,8 @@
         "link": "http://webrow.se/",
         "intro": "一个基于 websocket 的实时管理与同步 tab 的谷歌浏览器扩展，严格说不是我个人的产品，是 Privoce（https://privoce.com）公司产品，目前主要是我在做产品开发落地",
         "github": "https://github.com/Privoce/webrowse",
-        "cover": "https://g-store.oss-cn-beijing.aliyuncs.com/works/cobrowse.jpg"
+        "cover": "https://g-store.oss-cn-beijing.aliyuncs.com/works/cobrowse.jpg",
+        "logo": "https://static.nicegoodthings.com/project/ext/webrowse.logo.png"
     },
     {
         "name": "honeyed-words-generator",
@@ -240,7 +245,8 @@
         "github": "https://github.com/zerosoul/css-arrow-generator",
         "intro": "利用边框和伪元素在线生成 CSS 三角，妈妈再也不用担心我到处找代码复制粘贴啦！",
         "mobile": true,
-        "cover": "css.arrow.png"
+        "cover": "css.arrow.png",
+        "logo": "https://css-arrow-gen.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "omg",
@@ -249,7 +255,8 @@
         "github": "https://github.com/zerosoul/oh-my-goal",
         "mobile": true,
         "cover": "omg.jpg",
-        "intro": "给自己做的一个健身激励页面，选取猛男或美女，还有兄贵，作为榜样😂，设定时长，从模糊开始，坚持时间越长，看到的越清晰。"
+        "intro": "给自己做的一个健身激励页面，选取猛男或美女，还有兄贵，作为榜样😂，设定时长，从模糊开始，坚持时间越长，看到的越清晰。",
+        "logo": "https://omg.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "words.chaos",
