@@ -35,12 +35,26 @@ export default function Home() {
 
       <div className="w-fit m-auto grid gap-x-8 gap-y-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4">
         {works.map((w) => {
-          const { title, intro, link = "", cover = "", github = "" } = w;
+          const {
+            title,
+            intro,
+            link = "",
+            cover = "",
+            github = "",
+            logo = "",
+          } = w;
           const bgValue = cover.startsWith("http")
             ? `url(${cover})`
             : `url('https://static.nicegoodthings.com/uPic/co-link/${
                 cover || BgPlaceholder
               }')`;
+          const logoValue = logo
+            ? logo.startsWith("http")
+              ? `${logo}`
+              : `https://static.nicegoodthings.com/uPic/co-link/${
+                  logo || BgPlaceholder
+                }`
+            : null;
           return (
             <Card
               as={Link}
@@ -48,7 +62,7 @@ export default function Home() {
               target="_blank"
               radius="sm"
               style={{
-                backgroundImage: `${bgValue}`,
+                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), ${bgValue}`,
               }}
               key={title}
               isHoverable={false}
@@ -57,12 +71,16 @@ export default function Home() {
                 base: "max-w-80 transition-all hover:scale-110 cursor-pointer 2xl:max-w-96 bg-slate-900 bg-center bg-cover bg-no-repeat aspect-square",
                 body: "min-h-40",
                 footer: "gap-3",
+                header: "gap-2 items-center",
               }}
             >
               <CardHeader>
+                {logoValue && (
+                  <img className="rounded size-8" src={logoValue} />
+                )}
                 <h2
                   style={{ textShadow: "black 1px 5px 5px" }}
-                  className="font-bold text-xl md:text-2xl xl:text-3xl 2xl:text-4xl text-slate-50"
+                  className="font-bold text-xl whitespace-nowrap md:text-xl xl:text-2xl 2xl:text-3xl text-slate-50"
                 >
                   {title}
                 </h2>

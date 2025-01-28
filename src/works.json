@@ -1,28 +1,40 @@
 [
     {
+        "name": "sinqi.tools",
+        "title": "小神器",
+        "link": "https://sinqi.tools",
+        "intro": "小工具集合，包括不限于：有关时间的工具，图案生成器，查询工具，代码截图生成器，等等各种小众但有用的工具...",
+        "mobile": true,
+        "cover": "sinqi.logo.png",
+        "logo": "sinqi.logo.png"
+    },
+    {
+        "name": "PeekFocus",
+        "title": "Peek Focus",
+        "link": "https://peekfoc.us",
+        "intro": "一款不用打开新标签页就可浏览链接内容的浏览器插件，支持多个浏览器平台：Chrome,Firefox,Edge,Brave",
+        "mobile": true,
+        "cover": "https://i.siqi.me/works.peekfocus.png",
+        "logo": "https://i.siqi.me/peekfocus.svg"
+    },
+    {
+        "name": "edensign",
+        "title": "Edensign",
+        "link": "https://edensign.io",
+        "intro": "借助 AI，提供虚拟布置解决方案，赋予房地产专业人士和设计师以最佳方式展示房产的能力。",
+        "mobile": true,
+        "cover": "edensign.jpeg",
+        "logo": "https://www.edensign.io/favicon.ico"
+    },
+    {
         "name": "chinese-colors",
         "title": "中国古典颜色在线手册",
         "link": "https://colors.ichuantong.cn",
         "github": "https://github.com/zerosoul/chinese-colors",
         "intro": "UI 基于日本同行的 2010 年的一个作品（http://nipponcolors.com/），同时自己做了大量改进。",
         "mobile": true,
-        "cover": "chinese.colors.jpg"
-    },
-    {
-        "name": "sinqi.tools",
-        "title": "小神器",
-        "link": "https://sinqi.tools",
-        "intro": "小工具集合，包括不限于：有关时间的工具，图案生成器，查询工具，代码截图生成器，等等各种小众但有用的工具...",
-        "mobile": true,
-        "cover": "sinqi.logo.png"
-    },
-    {
-        "name": "edensign",
-        "title": "Edensign",
-        "link": "https://edensign.io",
-        "intro": "Edensign is a cutting-edge virtual staging solution that empowers real estate professionals and designers to showcase properties in their best light.",
-        "mobile": true,
-        "cover": "edensign.jpeg"
+        "cover": "chinese.colors.jpg",
+        "logo": "https://colors.ichuantong.cn/apple-touch-icon.png"
     },
     {
         "name": "unsplash-wanderer",
@@ -30,15 +42,8 @@
         "link": "https://sinqi.tools/unsplash",
         "intro": "一款随机展示来自 unsplash 精选摄影大片的应用，主要使用方式是浏览器插件",
         "mobile": false,
-        "cover": "unsplash.wanderer.png"
-    },
-    {
-        "name": "minesweeper",
-        "title": "扫雷小游戏",
-        "link": "https://ohminesweeper.online",
-        "intro": "win98 UI，一款主打怀旧的小游戏，支持 PWA",
-        "mobile": true,
-        "cover": "minesweeper.cover.png"
+        "cover": "unsplash.wanderer.png",
+        "logo": "https://sinqi.tools/tool/icons/unsplash.wallpaper.png"
     },
     {
         "name": "voce-chat",
@@ -48,6 +53,14 @@
         "mobile": true,
         "github": "https://github.com/Privoce/vocechat-web",
         "cover": "vocechat.cover.jpg"
+    },
+    {
+        "name": "minesweeper",
+        "title": "扫雷小游戏",
+        "link": "https://ohminesweeper.online",
+        "intro": "win98 UI，一款主打怀旧的小游戏，支持 PWA",
+        "mobile": true,
+        "cover": "minesweeper.cover.png"
     },
     {
         "name": "swzs-org",
@@ -82,7 +95,8 @@
         "intro": "可以选择技术栈和难度等级，还有模式选择、记录成绩、社交分享、全屏沉浸等功能",
         "github": "https://github.com/zerosoul/tech-logo-memo-game",
         "mobile": true,
-        "cover": "logo.memo.game.png"
+        "cover": "logo.memo.game.png",
+        "logo": "https://logo-game.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "portal-china-lite",
@@ -110,11 +124,12 @@
     {
         "name": "honeyed-words-generator",
         "title": "甜言蜜语生成器",
-        "link": "https://works.yangerxiao.com/honeyed-words-generator/",
+        "link": "https://honey.yangerxiao.com",
         "intro": "土味情话，在线生成",
         "mobile": true,
         "github": "https://github.com/zerosoul/honeyed-words-generator",
-        "cover": "hwg.png"
+        "cover": "hwg.png",
+        "logo": "https://honey.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "chwg",
@@ -131,7 +146,8 @@
         "link": "https://do-the-five.yangerxiao.com/",
         "github": "https://github.com/zerosoul/do-the-five",
         "intro": "写于武汉解封那天，胜利来之不易，个人防疫还需继续...",
-        "cover": "do.the.five.png"
+        "cover": "do.the.five.png",
+        "logo": "https://do-the-five.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "fake-sys-update",
@@ -139,7 +155,8 @@
         "link": "https://sinqi.tools/fsu",
         "github": "https://github.com/zerosoul/fake-system-update",
         "intro": "迷惑领导同事，摸鱼神器😄",
-        "cover": "fake.system.update.jpg"
+        "cover": "fake.system.update.jpg",
+        "logo": "https://sinqi.tools/tool/icons/fsu.png"
     },
     {
         "name": "life-progress",
@@ -148,7 +165,8 @@
         "link": "https://life-pro.yangerxiao.com/",
         "github": "https://github.com/zerosoul/life-progress",
         "intro": "⚠️⚠️⚠️：你的生命并不长，所以更不能用它来悲伤。",
-        "cover": "life.progress.png"
+        "cover": "life.progress.png",
+        "logo": "https://life-pro.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "image-compress-in-browser",
@@ -157,7 +175,8 @@
         "link": "https://icfe.yangerxiao.com/",
         "github": "https://github.com/zerosoul/image-compress-without-backend",
         "intro": "纯前端实现，注意该工具不仅会压缩大小，还会自动压缩尺寸（宽高超过 750px 会被压缩）。另，目前处于试验阶段，请根据压缩后的具体效果酌情使用。",
-        "cover": "image.compress.jpg"
+        "cover": "image.compress.jpg",
+        "logo": "https://icfe.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "github-star-view",
@@ -166,7 +185,8 @@
         "link": "https://stars.yangerxiao.com/",
         "github": "https://github.com/zerosoul/github-star-stats",
         "intro": "当时有这么个小需求：想统计某个 github 项目下每日新增多少 star，网上找了一通，没找到，于是自己就做了个，算是填补了某种需求的空白。P.S. Github API v4 真香！",
-        "cover": "star.stats.jpg"
+        "cover": "star.stats.jpg",
+        "logo": "https://i.siqi.me/apple-touch-icon.652136bb.png"
     },
     {
         "name": "swordman",
@@ -175,7 +195,8 @@
         "link": "https://swordman-musics.yangerxiao.com/",
         "intro": "重温 1990 版电影《笑傲江湖》，为致敬金曲《沧海一声笑》，做了个页面收集网上各种版本的翻唱。",
         "mobile": true,
-        "cover": "xiaoaojianghu.jpg"
+        "cover": "xiaoaojianghu.jpg",
+        "logo": "https://swordman-musics.yangerxiao.com/favicon-32x32.png"
     },
     {
         "name": "react-starter",
@@ -200,7 +221,8 @@
         "github": "https://github.com/zerosoul/breathe-relaxer",
         "intro": "通过视觉反馈，调节呼吸节奏，比较适合静心前的准备工作。",
         "mobile": true,
-        "cover": "breathe.relaxer.png"
+        "cover": "breathe.relaxer.png",
+        "logo": "https://sinqi.tools/tool/icons/breathe.relaxer.png"
     },
     {
         "name": "github-repo-image-gen",
@@ -208,7 +230,8 @@
         "link": "https://github-og-gen.yangerxiao.com/?repo=https://github.com/zerosoul/github-social-image-generator&utm_source=hacpai.com",
         "github": "https://github.com/zerosoul/github-social-image-generator",
         "intro": "做完 GitHub Star 统计工具，随即又做了这个 Github 仓库分享图片生成工具，很小众的工具，但切实解决了一个问题：给 github 项目设置社交分享图",
-        "cover": "github.share.png"
+        "cover": "github.share.png",
+        "logo": "https://github-og-gen.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "css-arrow",
@@ -235,7 +258,8 @@
         "github": "https://github.com/zerosoul/chinese-word-chaos",
         "mobile": true,
         "cover": "words.chaos.png",
-        "intro": "科学研究明表，字汉序顺定一不并响影阅读。"
+        "intro": "科学研究明表，字汉序顺定一不并响影阅读。",
+        "logo": "https://word-chaos.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "stopwatch",
@@ -244,7 +268,8 @@
         "github": "https://github.com/zerosoul/mini-stopwatch",
         "mobile": true,
         "cover": "mini.stopwatch.jpg",
-        "intro": "非常简单的一个计时器"
+        "intro": "非常简单的一个计时器",
+        "logo": "https://mini-stop.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "pwd-gen",
@@ -253,7 +278,8 @@
         "github": "https://github.com/zerosoul/strong-password-generator",
         "intro": "超强密码生成器！字母大小写，各种符号，数字随机大混合，生成让你用了再也想不起来是啥的密码！",
         "cover": "pwd-gen.jpg",
-        "mobile": true
+        "mobile": true,
+        "logo": "https://pwd-gen.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "html-colors",
@@ -262,7 +288,8 @@
         "github": "https://github.com/zerosoul/html-color-cheatsheet",
         "intro": "HTML 大概原生支持 140+ 种有名有姓的颜色，一个页面搞定！还可以一键复制",
         "mobile": true,
-        "cover": "html.color.jpg"
+        "cover": "html.color.jpg",
+        "logo": "https://html-colors.yangerxiao.com/apple-touch-icon.png"
     },
     {
         "name": "blog",
@@ -280,7 +307,8 @@
         "link": "https://yangerxiao.com",
         "github": "https://github.com/zerosoul/yangerxiao.com",
         "cover": "landing.png",
-        "mobile": true
+        "mobile": true,
+        "logo": "https://yangerxiao.com/favicon.ico"
     },
     {
         "name": "what-to-eat",
