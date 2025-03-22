@@ -61,6 +61,7 @@
         "link": "https://ohminesweeper.online",
         "intro": "win98 UI，一款主打怀旧的小游戏，支持 PWA",
         "mobile": true,
+        "github": "https://github.com/zerosoul/ohminesweeper.online",
         "cover": "minesweeper.cover.png",
         "logo": "https://ohminesweeper.online/favicon.ico"
     },
