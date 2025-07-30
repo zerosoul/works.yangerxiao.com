@@ -1,5 +1,23 @@
 [
     {
+        "name": "edensign",
+        "title": "Edensign",
+        "link": "https://edensign.io",
+        "intro": "借助 AI，提供虚拟布置解决方案，赋予房地产专业人士和设计师以最佳方式展示房产的能力。",
+        "mobile": true,
+        "cover": "edensign.jpeg",
+        "logo": "https://www.edensign.io/favicon.ico"
+    },
+    {
+        "name": "bom",
+        "title": "Mononoke Bank",
+        "link": "https://bankofmononoke.com",
+        "intro": "中文名：昨日银行。为逝者建立在线档案，追思纪念，功能包括不限于：生平介绍，人生大事记，照片库，共同回忆，纪念哀思等等模块",
+        "mobile": true,
+        "cover": "https://www.forevermissed.com/assets/white-label/forevermissed/images/for-loved-ones/for-loved-once-top-image.png",
+        "logo": "https://bankofmononoke.com/favicon.ico"
+    },
+    {
         "name": "sinqi.tools",
         "title": "Sinqi Tools",
         "link": "https://sinqi.tools",
@@ -18,15 +36,6 @@
         "logo": "https://i.siqi.me/peekfocus.svg"
     },
     {
-        "name": "edensign",
-        "title": "Edensign",
-        "link": "https://edensign.io",
-        "intro": "借助 AI，提供虚拟布置解决方案，赋予房地产专业人士和设计师以最佳方式展示房产的能力。",
-        "mobile": true,
-        "cover": "edensign.jpeg",
-        "logo": "https://www.edensign.io/favicon.ico"
-    },
-    {
         "name": "chinese-colors",
         "title": "中国古典颜色在线手册",
         "link": "https://colors.ichuantong.cn",
@@ -39,7 +48,7 @@
     {
         "name": "unsplash-wanderer",
         "title": "Unsplash Wanderer",
-        "link": "https://sinqi.tools/unsplash",
+        "link": "https://unsplash.sinqi.tools",
         "intro": "一款随机展示来自 unsplash 精选摄影大片的应用，主要使用方式是浏览器插件",
         "mobile": false,
         "cover": "unsplash.wanderer.png",
@@ -68,9 +77,9 @@
     {
         "name": "swzs-org",
         "title": "Vote For Global Leaders",
-        "link": "https://swzs.org/",
         "intro": "Vote your favorite leader",
         "mobile": true,
+        "stopped": true,
         "cover": "candidate.png",
         "logo": "https://swzs.org/favicon.ico"
     },
@@ -130,12 +139,12 @@
     {
         "name": "honeyed-words-generator",
         "title": "甜言蜜语生成器",
-        "link": "https://honey.yangerxiao.com",
+        "link": "https://honey.sinqi.tools",
         "intro": "土味情话，在线生成",
         "mobile": true,
         "github": "https://github.com/zerosoul/honeyed-words-generator",
         "cover": "hwg.png",
-        "logo": "https://honey.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://honey.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "chwg",
@@ -149,11 +158,11 @@
         "name": "do-the-five",
         "title": "防疫的五件小事",
         "mobile": true,
-        "link": "https://do-the-five.yangerxiao.com/",
+        "link": "https://do-the-five.sinqi.tools/",
         "github": "https://github.com/zerosoul/do-the-five",
         "intro": "写于武汉解封那天，胜利来之不易，个人防疫还需继续...",
         "cover": "do.the.five.png",
-        "logo": "https://do-the-five.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://do-the-five.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "fake-sys-update",
@@ -168,27 +177,27 @@
         "name": "life-progress",
         "title": "生命进程警示器",
         "mobile": true,
-        "link": "https://life-pro.yangerxiao.com/",
+        "link": "https://life-pro.sinqi.tools/",
         "github": "https://github.com/zerosoul/life-progress",
         "intro": "⚠️⚠️⚠️：你的生命并不长，所以更不能用它来悲伤。",
         "cover": "life.progress.png",
-        "logo": "https://life-pro.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://life-pro.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "image-compress-in-browser",
         "title": "图片压缩工具",
         "mobile": true,
-        "link": "https://icfe.yangerxiao.com/",
+        "link": "https://icfe.sinqi.tools/",
         "github": "https://github.com/zerosoul/image-compress-without-backend",
         "intro": "纯前端实现，注意该工具不仅会压缩大小，还会自动压缩尺寸（宽高超过 750px 会被压缩）。另，目前处于试验阶段，请根据压缩后的具体效果酌情使用。",
         "cover": "image.compress.jpg",
-        "logo": "https://icfe.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://icfe.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "github-star-view",
         "title": "Github star 统计工具",
         "mobile": true,
-        "link": "https://stars.yangerxiao.com/",
+        "link": "https://stars.sinqi.tools/",
         "github": "https://github.com/zerosoul/github-star-stats",
         "intro": "当时有这么个小需求：想统计某个 github 项目下每日新增多少 star，网上找了一通，没找到，于是自己就做了个，算是填补了某种需求的空白。P.S. Github API v4 真香！",
         "cover": "star.stats.jpg",
@@ -242,12 +251,12 @@
     {
         "name": "css-arrow",
         "title": "CSS 三角生成器",
-        "link": "https://css-arrow-gen.yangerxiao.com/",
+        "link": "https://css-arrow-gen.sinqi.tools/",
         "github": "https://github.com/zerosoul/css-arrow-generator",
         "intro": "利用边框和伪元素在线生成 CSS 三角，妈妈再也不用担心我到处找代码复制粘贴啦！",
         "mobile": true,
         "cover": "css.arrow.png",
-        "logo": "https://css-arrow-gen.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://css-arrow-gen.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "omg",
@@ -262,12 +271,12 @@
     {
         "name": "words.chaos",
         "title": "中文打乱小工具",
-        "link": "https://word-chaos.yangerxiao.com/",
+        "link": "https://word-chaos.sinqi.tools/",
         "github": "https://github.com/zerosoul/chinese-word-chaos",
         "mobile": true,
         "cover": "words.chaos.png",
         "intro": "科学研究明表，字汉序顺定一不并响影阅读。",
-        "logo": "https://word-chaos.yangerxiao.com/apple-touch-icon.png"
+        "logo": "https://word-chaos.sinqi.tools/apple-touch-icon.png"
     },
     {
         "name": "stopwatch",
@@ -328,25 +337,25 @@
         "cover": "wte.jpg"
     },
     {
+        "stopped": true,
         "name": "izhaichao-pc",
         "title": "万叶集 (PC)",
         "intro": "以前做的一个专注美文分享的摘抄网站，主要技术：PHP+Docker+jQuery，此为 PC 端站点。时间略久，现已不再维护😳",
-        "link": "https://www.izhaichao.com/",
         "cover": "wan.logo.png"
     },
     {
+        "stopped": true,
         "name": "izhaichao-m",
         "title": "万叶集 (Mobile)",
         "intro": "以前做的一个专注美文分享的摘抄网站，主要技术：PHP+Docker+jQuery，此为移动端站点。时间略久，现已不再维护😳",
-        "link": "https://yangerxiao.com",
         "mobile": true,
         "cover": "wan.logo.png"
     },
     {
+        "stopped": true,
         "name": "izhaichao-cms",
         "title": "万叶集后台管理系统",
         "intro": "万叶集后台数据管理系统，主要功能：写文章、打标签、分类、用户管理等。主要技术：PHP+Docker+jQuery+Semantic-UI。时间略久，现已不再维护😳。管理账号：yanggc 密码：yanggc",
-        "link": "https://admin.izhaichao.com/",
         "cover": "wan.logo.png"
     },
     {
