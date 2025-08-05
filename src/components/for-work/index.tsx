@@ -7,8 +7,8 @@ import { ReactTyped } from "react-typed";
 
 const introItems = [
   "一个热爱用代码解决生活问题的技术人",
-  "擅长 web 全栈，从 0 到 1 打造完整产品",
-  "10+ 技术积累，产品思维 + 工程能力",
+  "擅长 Web 全栈，从 0 到 1 打造完整产品",
+  "10 年技术积累，产品思维 + 工程能力",
 ];
 type Props = {};
 
