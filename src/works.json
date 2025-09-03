@@ -67,12 +67,12 @@
     {
         "name": "minesweeper",
         "title": "扫雷小游戏",
-        "link": "https://ohminesweeper.online",
+        "link": "https://minesweeper.sinqi.tools",
         "intro": "win98 UI，一款主打怀旧的小游戏，支持 PWA",
         "mobile": true,
         "github": "https://github.com/zerosoul/ohminesweeper.online",
         "cover": "minesweeper.cover.png",
-        "logo": "https://ohminesweeper.online/favicon.ico"
+        "logo": "https://minesweeper.sinqi.tools/favicon.ico"
     },
     {
         "name": "swzs-org",
