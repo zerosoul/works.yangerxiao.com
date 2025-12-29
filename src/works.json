@@ -80,8 +80,7 @@
         "intro": "Vote your favorite leader",
         "mobile": true,
         "stopped": true,
-        "cover": "candidate.png",
-        "logo": "https://swzs.org/favicon.ico"
+        "cover": "candidate.png"
     },
     {
         "name": "rc-bullets",
@@ -99,7 +98,7 @@
         "intro": "给自己做了个结婚网站",
         "github": "https://github.com/zerosoul/tristan-wedding",
         "mobile": true,
-        "cover": "https://g-store.oss-cn-beijing.aliyuncs.com/works/tristan.wedding.png"
+        "cover": "tristan.wedding.png"
     },
     {
         "name": "tech-logo-game",
@@ -114,8 +113,8 @@
     {
         "name": "portal-china-lite",
         "title": "Portal",
-        "link": "//nicegoodthings.com/",
         "intro": "常用网站与功能聚合主页，一个试验性产品，目前数据走的都是本地存储，请放心食用。",
+        "stopped": true,
         "cover": "portal.jpg"
     },
     {
@@ -124,8 +123,7 @@
         "link": "http://webrow.se/vera",
         "intro": "一个基于 webRTC 的实时音视频通讯的谷歌浏览器扩展，严格说不是我个人的产品，是 Privoce（https://privoce.com）公司产品，目前主要是我在做产品开发落地",
         "github": "https://github.com/Privoce/Vera",
-        "cover": "8UogVj.png",
-        "logo": "https://static.nicegoodthings.com/works/vera/popup.vera.logo.png"
+        "cover": "vera.png?ss"
     },
     {
         "name": "webrowse",
@@ -133,8 +131,7 @@
         "link": "http://webrow.se/",
         "intro": "一个基于 websocket 的实时管理与同步 tab 的谷歌浏览器扩展，严格说不是我个人的产品，是 Privoce（https://privoce.com）公司产品，目前主要是我在做产品开发落地",
         "github": "https://github.com/Privoce/webrowse",
-        "cover": "https://g-store.oss-cn-beijing.aliyuncs.com/works/cobrowse.jpg",
-        "logo": "https://static.nicegoodthings.com/project/ext/webrowse.logo.png"
+        "cover": "cobrowse.jpg"
     },
     {
         "name": "honeyed-words-generator",

@@ -1,14 +1,14 @@
 // import { Button } from "@nextui-org/react";
 import works from "@/works.json";
-import { Card, CardBody, CardFooter, CardHeader } from "@nextui-org/card";
 import { Badge } from "@nextui-org/badge";
 import { Button } from "@nextui-org/button";
-import { FaGithub } from "react-icons/fa";
+import { Card, CardBody, CardFooter, CardHeader } from "@nextui-org/card";
+import { Chip } from "@nextui-org/chip";
 import Link from "next/link";
+import { FaGithub } from "react-icons/fa";
+import { IoCloudOfflineOutline } from "react-icons/io5";
 import { MdLink } from "react-icons/md";
 import Comments from "../components/comments";
-import { Chip } from "@nextui-org/chip";
-import { IoCloudOffline, IoCloudOfflineOutline } from "react-icons/io5";
 import ForWork from "../components/for-work";
 const BgPlaceholder = "placeholder.jpg";
 export default function Home() {
@@ -50,15 +50,11 @@ export default function Home() {
             } = w;
             const bgValue = cover.startsWith("http")
               ? `url(${cover})`
-              : `url('https://static.nicegoodthings.com/uPic/co-link/${
-                  cover || BgPlaceholder
-                }')`;
+              : `url('https://i.siqi.me/works/${cover || BgPlaceholder}')`;
             const logoValue = logo
               ? logo.startsWith("http")
                 ? `${logo}`
-                : `https://static.nicegoodthings.com/uPic/co-link/${
-                    logo || BgPlaceholder
-                  }`
+                : `https://i.siqi.me/works/${logo || BgPlaceholder}`
               : null;
             const _link = link || github;
             return (
