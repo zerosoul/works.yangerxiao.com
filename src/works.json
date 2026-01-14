@@ -10,12 +10,12 @@
     },
     {
         "name": "bom",
-        "title": "Mononoke Bank",
-        "link": "https://bankofmononoke.com",
+        "title": "Bank of time",
+        "link": "https://bankoftime.ai",
         "intro": "中文名：昨日银行。为逝者建立在线档案，追思纪念，功能包括不限于：生平介绍，人生大事记，照片库，共同回忆，纪念哀思等等模块",
         "mobile": true,
         "cover": "https://www.forevermissed.com/assets/white-label/forevermissed/images/for-loved-ones/for-loved-once-top-image.png",
-        "logo": "https://bankofmononoke.com/favicon.ico"
+        "logo": "https://bankoftime.ai/favicon.ico"
     },
     {
         "name": "sinqi.tools",
