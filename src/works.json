@@ -1,5 +1,14 @@
 [
     {
+        "name": "motion-games",
+        "title": "动动乐园",
+        "link": "https://dongdongpark.com",
+        "intro": "用电脑摄像头玩的儿童体感游戏合集，110 个游戏，适合 3～18 岁，打开网页就能玩，不用手柄、不用安装，画面只在本机处理不上传。",
+        "mobile": false,
+        "cover": "https://dongdongpark.com/og/site.jpg",
+        "logo": "https://dongdongpark.com/icon-192.png"
+    },
+    {
         "name": "edensign",
         "title": "Edensign",
         "link": "https://edensign.io",
